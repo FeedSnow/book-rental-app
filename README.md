@@ -1,6 +1,6 @@
 # book-rental-app
  
-Reupload of a university group project as an app for security analysis in another university project.
+Reupload of a university group project (Advanced Programming Techniques) as an app for security analysis in another university project (Computer Systems Security).
 
 ## Authors
 **Backend**:
